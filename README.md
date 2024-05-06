@@ -16,7 +16,9 @@ Added toLowerCase() is important to handle case-sensitive entries. Also, I had t
 
 ## Examples:
 Take a look at some info for 21 Savage and Chance the Rapper
+
 https://raymond-rapper-api-b82af4f2d15a.herokuapp.com/api/21%20savage
+
 https://raymond-rapper-api-b82af4f2d15a.herokuapp.com/api/chance%20the%20rapper
 
 
